@@ -6,6 +6,9 @@
 
 <h2>👨‍💻Web Development Projects </h2>
 
+- [Password App Generator](https://github.com/HarunaTech/Password-App-Generator)
+- [WorkDay Scheduler](https://github.com/HarunaTech/Work-Day-Scheduler)
+
 <h2> Certifications:</h2>
 
 
