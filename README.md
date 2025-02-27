@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hi there, I'm Haruna! </h1>
 
-<!--
-**HarunaTech/HarunaTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻Cyber Security Projects </h2>
 
-Here are some ideas to get you started:
+- [Active Directory Home Lab](https://github.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻Web Development Projects </h2>
+
+<h2> Certifications:</h2>
+
+
+<h2>📺YouTube Videos</h2>
+
+- [Active Directory Home Lab Video](https://github.com/)
+  
+
+<h2> 🤳 Connect with me:</h2>
+
+[Linkedin](https://linkedin.com/in/harunahamod/)
