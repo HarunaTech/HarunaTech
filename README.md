@@ -8,13 +8,14 @@
 
 - [Password App Generator](https://github.com/HarunaTech/Password-App-Generator)
 - [WorkDay Scheduler](https://github.com/HarunaTech/Work-Day-Scheduler)
+- [Readme App Generator](https://github.com/HarunaTech/ReadmeAppGenerator)
 
 <h2> Certifications:</h2>
 
 
 <h2>📺YouTube Videos</h2>
 
-- [Active Directory Home Lab Video](https://github.com/)
+- [Readme App Video Demo](https://www.youtube.com/watch?v=YlVY3zVfNzA)
   
 
 <h2> 🤳 Connect with me:</h2>
