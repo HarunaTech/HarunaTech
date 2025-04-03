@@ -28,6 +28,7 @@
 - [Deploying Microsoft Entra ID](https://www.linkedin.com/learning/certificates/f2a84323d9c589e6ff2e1b72cbaff72151ca1607f2bdfaee9bd47aed5cd1500d)
 - [Getting Started with AWS](https://simpli.app.link/JORyqG702vb)
 - [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/6b0adec5-05d1-4c67-b71d-5d853d6fadbb/linked_in_profile)
+- [edX Front-End Web Development, Bootcamp](https://skillsbootcamp.credential.getsmarter.com/baa83e3b-a0f2-46c8-a8fd-5b9daaba44cf#gs.d9160u)
 
 
 <h2>📺YouTube Videos</h2>
