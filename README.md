@@ -11,6 +11,7 @@
 
 <h2> Certifications:</h2>
 
+-  [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/272cafca-a337-4426-a386-2de5f15ad482/public_url)
 - [AZ-900 Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/HarunaHamod-1184/6A618536BC5FC795?sharingId)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/da09fd3a-a13c-4506-84ed-6c2129f80767/linked_in_profile)
 - [Network Defense Essentials (NDE) EC-Council](https://codered.eccouncil.org/certificate/b4f757d3-c6f9-4ab4-be12-7b3af86d1377?logged=true)
