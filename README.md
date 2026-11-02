@@ -11,6 +11,7 @@
 
 <h2> Certifications:</h2>
 
+-  [Fortinet NSE 2 Certified in Cybersecurity](https://www.credly.com/badges/371f753a-2c4e-4e7d-a047-38ef9a402085/public_url)
 -  [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/272cafca-a337-4426-a386-2de5f15ad482/public_url)
 - [AZ-900 Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/HarunaHamod-1184/6A618536BC5FC795?sharingId)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/da09fd3a-a13c-4506-84ed-6c2129f80767/linked_in_profile)
