@@ -13,6 +13,10 @@
 
 -  [Fortinet NSE 2 Certified in Cybersecurity](https://www.credly.com/badges/371f753a-2c4e-4e7d-a047-38ef9a402085/public_url)
 -  [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/272cafca-a337-4426-a386-2de5f15ad482/public_url)
+-  [Cisco: Network Support and Secuirty](https://1drv.ms/i/c/fc142a95ee3f8687/IQCpzcbT_LhUToH2Rn094GQDARosmbGXaMG59OfJUF8kYRQ?e=zRnVJC)
+-   [Cisco: Endpoint Secuirty](https://1drv.ms/i/c/fc142a95ee3f8687/IQAD23BpAWVORpwNoc2zDO7tAcHsjP_57YRqnbO92oMDH0A?e=lQ2RUA)
+-   [Cisco: Networking Essential](https://1drv.ms/b/c/fc142a95ee3f8687/IQCHhj_ulSoUIID8WwYBAAAAAQTF-15xwUT_JTJY0igl6Uc?e=ZDmmDi)
+-    [Cisco: IT Customer Support Basics](https://1drv.ms/i/c/fc142a95ee3f8687/IQDs4r_3UzvPSqhfifwAJDMHAShrwAn-5yDtcrNxD6IvO1o?e=Zz0LbF)
 - [AZ-900 Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/HarunaHamod-1184/6A618536BC5FC795?sharingId)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/da09fd3a-a13c-4506-84ed-6c2129f80767/linked_in_profile)
 - [Network Defense Essentials (NDE) EC-Council](https://codered.eccouncil.org/certificate/b4f757d3-c6f9-4ab4-be12-7b3af86d1377?logged=true)
@@ -26,6 +30,7 @@
 
 <h2> Accomplishment & Badges :</h2>
 
+- [Cisco - Introduction to Cybersecurity](https://www.credly.com/badges/9b5ea10b-f788-42e3-9944-b33c50fe6ad9/public_url)
 - [SailPoint Identity Security Leader Credential](https://businesscollege-my.sharepoint.com/:i:/g/personal/s2400107_edu_bc_fi/EQnQIMmBL-BFlUexn-p8mwEBmtatKB0TjCSmVdw8GzX85g?e=DCUbI0)
 - [Forage- Mastercard Cybersecurity Virtual Experience Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_ArX9Zqb2KqiEdqGxt_1739015841249_completion_certificate.pdf)
 - [eOppiva- ABC of Data protection](https://businesscollege-my.sharepoint.com/:i:/g/personal/s2400107_edu_bc_fi/EWp2qauq6ytMg_2lZkaHvOUBE-mwg6xxcEassigACAifvA?e=0g4MCR)
